@@ -1,0 +1,21 @@
+.todo {
+  width: 600px;
+  height: 100px;
+  border: 3px solid #970eb6;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  gap: 20px;
+  font-size: 20px;
+}
+
+
+
+.completed {
+  background-color: #cc0ea6;
+  text-decoration: line-through; /* Добавляет подчеркивание к тексту */
+}
+
+.completedText {
+  color: #999;
+}
